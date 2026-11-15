@@ -21,6 +21,11 @@
 - Python, OpenCV, PyTorch
 - DeepLabV3+, GMM (Scikit-Learn)
 
----
+## Team
+- Jood Alharbi
+- Sarah Aldarwish
+- Jana AlZobidi
+- Joori Shareef
 
+---
 ⚠️ Work in progress. Deployment coming soon via Hugging Face Spaces.
