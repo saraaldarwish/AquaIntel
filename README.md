@@ -22,10 +22,11 @@
 - DeepLabV3+, GMM (Scikit-Learn)
 
 ## Team
-- Jood Alharbi
-- Sarah Aldarwish
-- Jana AlZobidi
 - Joori Shareef
+- Sarah Aldarwish
+- Rahaf Alhodali
+- Jood Alharbi
+- Jana AlZobidi
 
 ---
 ⚠️ Work in progress. Deployment coming soon via Hugging Face Spaces.
